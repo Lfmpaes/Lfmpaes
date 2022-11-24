@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lfmpaes
-- 👀 I’m interested in JavaScript and React.
-- 🌱 I’m currently learning JS and React [Native].
-- 📫 How to reach me: @Lfmpaes on all socials and Gmail.
+- 👀 I’m interested in JavaScript development.
+- 🌱 I’m currently learning JS and PostgreSQL.
+- 📫 How to reach me: @Lfmpaes on all socials and luiz@lfmpaes.com.br
 
 - Updates soon.
 
