@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lfmpaes
-- 👀 I’m interested in JavaScript development.
-- 🌱 I’m currently learning JS and PostgreSQL.
-- 📫 How to reach me: @Lfmpaes on all socials and luiz@lfmpaes.com.br
+- 👀 I’m a JavaScript developer and enthusiast.
+- 🌱 I’m currently learning JavaScript and PostgreSQL.
+- 📫 How to reach me: @Lfmpaes on all social medias and luiz@lfmpaes.com.br
 
 - Updates soon.
 
