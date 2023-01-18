@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lfmpaes
 - 👀 I’m a JavaScript developer and enthusiast.
-- 🌱 I’m currently learning JavaScript and PostgreSQL.
+- 🌱 I’m currently learning JavaScript/TypeScript, Go and Rust.
 - 📫 How to reach me: @Lfmpaes on all social medias and luiz@lfmpaes.com.br
 
 - Updates soon.
