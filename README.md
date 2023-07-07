@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luiz!
 
-- 🌱 I’m currently learning Rust.
+- 🌱 I’m a Backend Node.js Developer.
 - 📫 How to reach me: @Lfmpaes on all social medias and luiz@lfmpaes.com.br
 
 - Updates soon.
