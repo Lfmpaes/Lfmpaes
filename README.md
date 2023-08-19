@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luiz!
 
-- 🌱 I’m a Backend Node.js Developer.
-- 📫 How to reach me: @Lfmpaes on all social medias and luiz@lfmpaes.com.br
+- 🌱 I’m a Backend Developer.
+- 📫 How to reach me: @Lfmpaes on all social medias and luiz@paes.dev
 
 - Updates soon.
 
